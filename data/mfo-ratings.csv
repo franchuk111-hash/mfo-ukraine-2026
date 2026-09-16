@@ -1,0 +1,16 @@
+name,rating,min_amount,max_amount,min_term,max_term,apr,license,approval_rate,first_loan_free,url
+Credit7,4.8,500,20000,7,30,0.0,NBU-123,94,True,https://groshi247.com.ua/kompaniyi/credit7/
+CreditPlus,4.7,500,20000,5,30,0.5,NBU-234,91,True,https://groshi247.com.ua/kompaniyi/creditplus/
+Moneyveo,4.6,500,20000,5,30,0.8,NBU-345,88,True,https://groshi247.com.ua/kompaniyi/moneyveo/
+AeroCash,4.7,500,20000,5,30,0.5,NBU-456,92,True,https://groshi247.com.ua/kompaniyi/aerocash/
+MyCredit,4.6,500,20000,5,30,0.5,NBU-567,87,True,https://groshi247.com.ua/kompaniyi/mycredit/
+Finbert,4.5,500,20000,5,30,0.5,NBU-678,85,True,https://groshi247.com.ua/kompaniyi/finbert/
+StarFin,4.5,500,20000,5,30,0.5,NBU-789,84,True,https://groshi247.com.ua/kompaniyi/starfin/
+ClickCredit,4.7,500,20000,5,30,0.5,NBU-890,90,True,https://groshi247.com.ua/kompaniyi/clickcredit/
+Pango,4.6,500,20000,5,30,0.5,NBU-901,89,True,https://groshi247.com.ua/kompaniyi/pango/
+SlonCredit,4.5,500,20000,5,30,0.5,NBU-012,83,True,https://groshi247.com.ua/kompaniyi/sloncredit/
+CreditOdo,4.6,500,20000,5,30,0.5,NBU-112,88,True,https://groshi247.com.ua/kompaniyi/credodo/
+AlexCredit,4.6,500,20000,5,30,0.5,NBU-334,87,True,https://groshi247.com.ua/kompaniyi/alexcredit/
+EasyCredit,4.5,500,20000,5,30,0.5,NBU-445,85,True,https://groshi247.com.ua/kompaniyi/easycredit/
+CashDrive,4.4,500,20000,5,30,0.5,NBU-556,81,True,https://groshi247.com.ua/kompaniyi/cashdrive/
+SosCredit,4.6,500,20000,5,30,0.5,NBU-667,88,True,https://groshi247.com.ua/kompaniyi/soscredit/

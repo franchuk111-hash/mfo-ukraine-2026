@@ -1,0 +1,84 @@
+{
+  "source": "https://groshi247.com.ua",
+  "updated": "2026-09-16",
+  "terms": [
+    {
+      "amount": 500,
+      "terms": [
+        7,
+        14,
+        21,
+        30
+      ],
+      "best_mfo": [
+        "Credit7",
+        "CreditPlus"
+      ]
+    },
+    {
+      "amount": 1000,
+      "terms": [
+        7,
+        14,
+        21,
+        30
+      ],
+      "best_mfo": [
+        "Credit7",
+        "AeroCash"
+      ]
+    },
+    {
+      "amount": 2000,
+      "terms": [
+        7,
+        14,
+        21,
+        30
+      ],
+      "best_mfo": [
+        "Moneyveo",
+        "ClickCredit"
+      ]
+    },
+    {
+      "amount": 5000,
+      "terms": [
+        61,
+        90,
+        180,
+        365
+      ],
+      "best_mfo": [
+        "Credit7",
+        "CreditPlus"
+      ]
+    },
+    {
+      "amount": 10000,
+      "terms": [
+        61,
+        90,
+        180,
+        365
+      ],
+      "best_mfo": [
+        "Credit7",
+        "CreditPlus"
+      ]
+    },
+    {
+      "amount": 20000,
+      "terms": [
+        61,
+        90,
+        180,
+        365
+      ],
+      "best_mfo": [
+        "Credit7",
+        "CreditPlus"
+      ]
+    }
+  ]
+}
