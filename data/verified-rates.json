@@ -1,0 +1,43 @@
+{
+  "source": "https://groshi247.com.ua",
+  "updated": "2026-09-16",
+  "license": "MIT",
+  "methodology": "Ручна перевірка умов у договорах та на сторінках 25 МФО; розрахунок переплати за формулою Сума × денна ставка × кількість днів.",
+  "scenario": {
+    "amount": 5000,
+    "term_days": 90,
+    "first_loan_overpayment_uah": 0,
+    "repeat_loan_rate_per_day": 0.01,
+    "repeat_loan_overpayment_uah": 4500,
+    "late_rate_per_day": 0.03,
+    "late_max_overpayment_uah": 5000,
+    "legal_cap_pct_of_principal": 100
+  },
+  "companies": [
+    {"slug":"sloncredit","name":"SlonCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/sloncredit/"},
+    {"slug":"finclick","name":"FinClick","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/finclick/"},
+    {"slug":"selfiecredit","name":"SelfieCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/selfiecredit/"},
+    {"slug":"starfin","name":"StarFin","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/starfin/"},
+    {"slug":"funnymoney","name":"FunnyMoney","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/funnymoney/"},
+    {"slug":"mycredit","name":"MyCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/mycredit/"},
+    {"slug":"maxicredit","name":"MaxiCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/maxicredit/"},
+    {"slug":"pango","name":"Pango","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/pango/"},
+    {"slug":"egroshi","name":"eGroshi","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/egroshi/"},
+    {"slug":"finbert","name":"Finbert","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/finbert/"},
+    {"slug":"rocketmoney","name":"RocketMoney","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/rocketmoney/"},
+    {"slug":"lovilave","name":"LoviLave","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/lovilave/"},
+    {"slug":"tvoya-pozyka","name":"Твоя Позика","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/tvoya-pozyka/"},
+    {"slug":"lehkocredit","name":"LehkoCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/lehkocredit/"},
+    {"slug":"navse","name":"Navse","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/navse/"},
+    {"slug":"recredit","name":"ReCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/recredit/"},
+    {"slug":"aviracredit","name":"AviraCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/aviracredit/"},
+    {"slug":"extratraff","name":"ExtraTraff","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/extratraff/"},
+    {"slug":"credodo","name":"CreditOdo","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/credodo/"},
+    {"slug":"alexcredit","name":"AlexCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/alexcredit/"},
+    {"slug":"aerocash","name":"AeroCash","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/aerocash/"},
+    {"slug":"trebacredit","name":"TrebaCredit","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/trebacredit/"},
+    {"slug":"bizpozyka","name":"BizPozyka","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/bizpozyka/"},
+    {"slug":"sgroshi","name":"SGroshi","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/sgroshi/"},
+    {"slug":"credit7","name":"Credit7","first_loan_rate":0,"min_amount":500,"max_amount":20000,"min_term":61,"max_term":365,"first_loan_free":true,"license":"НБУ","url":"https://groshi247.com.ua/kompaniyi/credit7/"}
+  ]
+}
