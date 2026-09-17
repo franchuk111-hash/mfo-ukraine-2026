@@ -1,0 +1,28 @@
+# groshi247.com.ua
+
+> Кредит онлайн 24/7 в Україні. Рейтинг 15 МФО, порівняння, калькулятор, відгуки.
+
+## Dataset
+
+This repository contains open data about microfinance organizations (МФО) in Ukraine, 2026.
+
+- 15 licensed МФО with ratings, loan terms, and APR
+- Source: https://groshi247.com.ua
+- Data files: data/mfo-ratings.csv, data/mfo-data.json, data/verified-rates.json
+
+## Key pages
+
+- [Рейтинг МФО](https://groshi247.com.ua/)
+- [Кредитний калькулятор](https://groshi247.com.ua/kalkulyator/)
+- [Порівняння МФО](https://groshi247.com.ua/porivnyannya/)
+- [Кредитний чек](https://groshi247.com.ua/kredyt-tyek/)
+- [Дослідження](https://groshi247.com.ua/doslidzhennya/)
+- [Блог](https://groshi247.com.ua/blog/)
+
+## Citation
+
+If you use this data, cite: groshi247.com.ua — МФО України 2026 Open Data, GitHub: franchuk111-hash/mfo-ukraine-2026
+
+## License
+
+CC-BY-4.0 — Attribution required to groshi247.com.ua

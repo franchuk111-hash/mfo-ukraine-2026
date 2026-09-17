@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "МФО України 2026 — Open Data"
+message: "Open dataset of microfinance organizations in Ukraine, 2026."
+authors:
+  - family-names: "Groshi247"
+    given-names: "Team"
+    website: "https://groshi247.com.ua"
+repository-code: "https://github.com/franchuk111-hash/mfo-ukraine-2026"
+url: "https://groshi247.com.ua"
+keywords:
+  - microfinance
+  - Ukraine
+  - МФО
+  - кредит онлайн
+  - open data
+license: CC-BY-4.0
+version: "2026.09"
+date-released: "2026-09-16"
